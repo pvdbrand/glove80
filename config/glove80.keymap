@@ -126,7 +126,7 @@
        &trans        &trans      &trans      &trans     &trans     &trans                                                    &trans      &trans        &trans        &trans     &trans           &trans
      &kp BSPC        &kp N1      &kp N2      &kp N3     &kp N4     &kp N5                                                    &kp N6      &kp N7        &kp N8        &kp N9     &kp N0          &kp DEL
       &kp RET     &kp SPACE    &kp LALT   &kp LCTRL  &kp LSHFT  &kp TILDE                                                  &kp LEFT    &kp DOWN        &kp UP     &kp RIGHT  &kp COLON          &kp RET
-       &trans         &none       &none       &none      &none  &kp GRAVE  &trans  &trans   &to 0  &trans  &trans  &trans  &kp BSLH    &kp HOME       &kp END     &kp PG_UP  &kp PG_DN           &trans
+       &trans     &kp LC(Z)   &kp LC(X)   &kp LC(C)  &kp LC(V)  &kp GRAVE  &trans  &trans   &to 0  &trans  &trans  &trans  &kp BSLH    &kp HOME       &kp END     &kp PG_UP  &kp PG_DN           &trans
    &magic 2 0      &kp LBRC    &kp RBRC      &kp LT     &kp GT             &trans  &trans  &trans  &trans  &trans  &trans               &kp DQT      &kp PLUS     &kp UNDER  &kp QMARK          &kp INS
             >;
         };
